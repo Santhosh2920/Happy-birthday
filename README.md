@@ -52,3 +52,4 @@ permission from the person in the photos before publishing them publicly.
 No music file is included, so the site does not depend on copyrighted audio.
 If you have your own audio and want music, add an MP3 file and an audio player
 to `index.html`.
+![image alt](https://github.com/Santhosh2920/Happy-birthday/blob/f717b63f740629b8ce2bdd16669f42b667a745b9/bhuvaneshwari-collage.jpg)
